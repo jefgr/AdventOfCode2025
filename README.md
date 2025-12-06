@@ -67,4 +67,3 @@ Solutions are personal interpretations and might not be the most optimal approac
 
 ## Resources
 - [Advent of Code Official Website](https://adventofcode.com/)
-- [R7RS Small Language Specification](https://small.r7rs.org/)
